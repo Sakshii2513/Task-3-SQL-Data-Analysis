@@ -20,9 +20,6 @@ Customer_support_data.csv
 - Simulated indexing and performance
 - Categorized CSAT score with CASE
 
-## 📷 Screenshots
-Added in `/output_screenshots/` folder
-
 ## ❓ Interview Questions Answered
 1. **WHERE vs HAVING**: WHERE filters rows before grouping; HAVING filters after GROUP BY.
 2. **Types of JOINs**: INNER, LEFT, RIGHT, FULL OUTER.
